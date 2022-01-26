@@ -55,3 +55,4 @@ Sau đó chuyển data từ dạng json sang csv.
     ![tempView](./image/tempView.jpg)
 - Kiểm tra 1 vài thuộc tính của dữ liệu:
     ![sql](./image/sql.jpg)
+
